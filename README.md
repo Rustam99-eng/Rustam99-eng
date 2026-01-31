@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! 👋 My name is Rustam Aitkulov
 ## 🌱 I'm currently learning how to develop neural networks
 <!--
 **Rustam99-eng/Rustam99-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
