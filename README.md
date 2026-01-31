@@ -1,5 +1,8 @@
-## Hi there! 👋 My name is Rustam Aitkulov
+# Hi there! 👋 My name is Rustam Aitkulov
 ## 🌱 I'm currently learning how to develop neural networks
+My journey in IT began in 2019 when I entered Izhevsk State Technical University 🎓. I recently completed a course in neural network development, where I learned about the latest developments in this field 💻.
+
+My goal is to become a highly qualified machine learning specialist 💡. Machine learning is of great interest to me and I want to develop in this field.
 <!--
 **Rustam99-eng/Rustam99-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
