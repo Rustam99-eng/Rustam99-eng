@@ -5,6 +5,7 @@
 Моя цель — стать высококвалифицированным специалистом по машинному обучению 💡. Машинное обучение меня очень интересует, и я хочу развиваться в этой области.
 
 - 🌍 Я живу в России, в Ижевске;
+- 👨‍🎓 Закончил академию нейросетей [The Founder](https://academy.the-founder.ru)
 - ✉️ Вы можете связаться со мной по [электронной почте](mailto:aitckulov.rustam@yandex.ru) или в [Telegram](https://t.me/Rustam_Aitkulov);
 <!--
 **Rustam99-eng/Rustam99-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
