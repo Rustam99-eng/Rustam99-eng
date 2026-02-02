@@ -7,6 +7,19 @@
 - 🌍 Я живу в России, в Ижевске;
 - 👨‍🎓 Закончил академию нейросетей [The Founder](https://academy.the-founder.ru)
 - ✉️ Вы можете связаться со мной по [электронной почте](mailto:aitckulov.rustam@yandex.ru) или в [Telegram](https://t.me/Rustam_Aitkulov);
+
+## PET проекты:
+
+### 📌 Голосовой помощник для изучения иностранных языков
+Я разработал модель YOLOv8 для обнаружения транспортных средств в условиях низкой освещенности. [Ссылка на проект](https://github.com/Rustam99-eng/Car_Detection.git)
+
+Стек: YOLOv8, OpenCV
+
+### 📌 Нейро-консультант по техническим характеристикам компьютера 
+Я разработал систему RAG в виде нейронного процессора для технического консультанта, ориентированную на анализ и обработку данных из базы знаний (документ Google). [Ссылка на проект](https://github.com/Rustam99-eng/neuro-employee.git)
+
+Стек: LlamaIndex, HuggingFaceLLM, Phoenix
+
 <!--
 **Rustam99-eng/Rustam99-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
