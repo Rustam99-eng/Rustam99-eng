@@ -24,7 +24,7 @@
 
 - 2026 Разработчик нейросетей, The Founder [(профессиональная переподготовка)](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FДиплом_Рустам_Аиткулов.pdf&name=Диплом_Рустам_Аиткулов.pdf&uid=332501160&nosw=1)
 - 2025 Специалист по работе с системами искусственного интелекта, Удмуртский государственный университет [(повышение квалификации)](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FСертификат.PDF&name=Сертификат.PDF&uid=332501160&nosw=1)
-- 2025 Программная инженерия, Ижевский государственный технический университет имени М.Т.Калашникова (бакалавр)
+- 2025 Программная инженерия, Ижевский государственный технический университет имени М.Т.Калашникова [(бакалавр)](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FДиплом.PDF&name=Диплом.PDF&uid=332501160&nosw=1)
 <!--
 **Rustam99-eng/Rustam99-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
