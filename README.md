@@ -7,6 +7,7 @@
 - 🌍 Я живу в России, в Ижевске;
 - 👨‍🎓 Закончил академию нейросетей [The Founder](https://academy.the-founder.ru)
 - ✉️ Вы можете связаться со мной по [электронной почте](mailto:aitckulov.rustam@yandex.ru) или в [Telegram](https://t.me/Rustam_Aitkulov);
+- ⚡ Более подробную информацию вы можете найти в моем [резюме](https://docs.yandex.ru/docs/view?url=ya-disk%3A%2F%2F%2Fdisk%2FРезюме%20Аиткулов%20Рустам%20ML-разработчик.docx&name=Резюме%20Аиткулов%20Рустам%20ML-разработчик.docx&uid=332501160&nosw=1).
 
 ## PET проекты:
 
